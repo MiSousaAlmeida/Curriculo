@@ -1,0 +1,22 @@
+body{
+    font-size: 16px;
+    font-family: sans-serif;
+    background-color: beige;
+}
+
+h2, h3{
+    color:darkblue;
+}
+#img{
+    text-align: center;
+    margin-top: 20px;
+}
+
+h2{
+    text-align: center;
+    border: 1px solid;
+    border-radius: 15px;
+    background-color: white;
+    padding: 5px;
+}
+
